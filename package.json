@@ -1,0 +1,16 @@
+{
+  "name": "wstesting-164015",
+  "version": "0.0.1",
+  "description": "A nodejs websocket server",
+  "main": "server.js",
+  "repository": "",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "dependencies": {
+    "firebase": "^3.7.5",
+    "firebase-admin": "^4.2.0",
+    "socket.io": "1.7.3",
+    "websocket": "1.0.24"
+  }
+}
