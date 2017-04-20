@@ -1,4 +1,6 @@
+## Wright State Senior Project 2017
 This is a Node.js websocet connection that was set up to pass lat/lng locations to our Firebase Server.  
+
 
 
 
